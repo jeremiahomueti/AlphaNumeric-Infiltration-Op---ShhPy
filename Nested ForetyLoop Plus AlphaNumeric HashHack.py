@@ -55,7 +55,3 @@ for figures in numbers:
 
 
 # In[ ]:
-
-
-
-

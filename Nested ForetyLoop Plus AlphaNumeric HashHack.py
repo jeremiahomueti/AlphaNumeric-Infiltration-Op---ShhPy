@@ -14,7 +14,9 @@ toppings = ['hot fudge', 'oroes', 'marshmallows']
 
 
 for first in flavors:
+    
     for second in toppings:
+        
         print(first, 'topped with some spicy', second)
 
 

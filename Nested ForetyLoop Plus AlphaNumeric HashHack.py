@@ -47,6 +47,7 @@ print(alphabets)
 
 #alphanumberic passwords can be hacked this way.
 
+
 for figures in numbers:
     for figures2 in numbers2:
         for letters in alphabets:
